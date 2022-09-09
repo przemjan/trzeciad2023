@@ -27,5 +27,7 @@ public class Zmienne {
         System.out.print("Moj\n znak " + litera + " Mój napis " + napis);
 
         boolean twierdzenie = true; //false
+
+       // https://github.com/przemjan/trzeciad2023
     }
 }
