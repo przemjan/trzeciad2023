@@ -27,7 +27,10 @@ public class LiczbyPseudolosowe {
 
         System.out.println ("RNG to " + losowaLiczba3 );
 
-        // https://github.com/przemjan/trzeciaPgr3
+        // https://github.com/przemjan/trzeciad2023
+        //zadania petlewstep: 1,2,3, 12,13,13,14
+        //zadania7
+
 
     }
 }

@@ -34,6 +34,9 @@ public class generateCheatSheet {
                         git config --global user.name "FIRST_NAME LAST_NAME"
                         Ustawienie maila (globalne) :
                         git config --global user.email "MY_NAME@example.com"
+                        czyszczenie historii w gitBashu:
+                        rm ~/.bash_history
+                        history -c
                         
                         Ustawienie użytkownika (lokalne):
                         git config user.name "FIRST_NAME LAST_NAME"
